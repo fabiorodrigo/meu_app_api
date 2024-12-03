@@ -39,4 +39,3 @@ class Aluno(Base):
         # se não for informada, será o data exata da inserção no banco
         if data_cadastro:
             self.data_cadastro = data_cadastro
-
