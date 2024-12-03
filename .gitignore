@@ -1,0 +1,39 @@
+# Python cache files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# Virtual environment
+venv/
+.env/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Alembic migrations
+migrations/
+
+# Flask instance and config
+instance/
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode configuration files
+.vscode/
+
+# PyCharm IDE
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and database backups
+*.log
+*.sqlite3
+*.bak
